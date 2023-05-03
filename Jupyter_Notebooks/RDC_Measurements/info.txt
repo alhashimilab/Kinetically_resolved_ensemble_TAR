@@ -1,4 +1,0 @@
-Description of data:
-    -   *.sas.csv = list of final measured rdcs used for SAS
-    -   *.inp = input file to RAMAH for fitting saupe tensor
-    -   *.stat = output file from RAMAH containing fitting of saupe tensor
